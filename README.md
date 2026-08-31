@@ -9,6 +9,38 @@ JPEG、PNG、WebP、AVIFに対応し、複数の画像をまとめて処理で�
 > 現在は正式公開前のベータ版です。
 > 重要な画像は元ファイルを残した状態で利用してください。
 
+## スクリーンショット
+
+### 圧縮・変換設定
+
+複数の画像を一覧で確認しながら、出力形式や圧縮方法をまとめて設定できます。
+
+![画像の圧縮・変換設定](docs/images/compression-settings.png)
+
+### 画像の追加
+
+画像はドラッグ＆ドロップ、またはファイル選択から追加できます。
+
+![画像の追加画面](docs/images/add-images.png)
+
+### 処理前後の比較
+
+オリジナルと処理後の画像を並べ、見た目とファイルサイズの変化を確認できます。
+
+![処理前後の比較画面](docs/images/comparison-preview.png)
+
+### 詳細な圧縮設定
+
+画像形式に応じた品質や圧縮方式を細かく調整できます。
+
+![詳細な圧縮設定](docs/images/advanced-settings.png)
+
+### 保存設定
+
+保存先、ファイル名、連番などを保存前にまとめて設定できます。
+
+![画像の保存設定](docs/images/save-dialog.png)
+
 ## ダウンロード
 
 最新版は[GitHub Releases](https://github.com/yama-dev/mount-pixel/releases/latest)からダウンロードできます。
